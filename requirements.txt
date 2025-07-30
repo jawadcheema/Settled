@@ -1,0 +1,5 @@
+streamlit
+overpy
+geopy
+pandas
+rapidfuzz
